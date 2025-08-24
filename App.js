@@ -8,12 +8,12 @@ import Seis from './screens/Seis';
 
 export default function App() {
   return (
-      // <Um/>,
+      <Um/>
       // <Dois/>,
       // <Tres/>,
       // <Quatro/>
       // <Cinco/>
-      <Seis/>
+      // <Seis/>
       // <Teste/>,
   );
 }
